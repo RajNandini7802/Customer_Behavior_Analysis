@@ -71,6 +71,9 @@ Average rating: 3.77
 ## Author and Contact
 
 Raj Nandini
+
 Data Analyst
+
 📧 Email: rajnandini7802@gmail.com
+
 🔗 LinkedIn
