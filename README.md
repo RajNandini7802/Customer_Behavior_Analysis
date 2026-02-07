@@ -67,3 +67,10 @@ Young adults purchase frequently but spend less
 Average purchase amount: ₹60.48
 
 Average rating: 3.77
+
+## Author and Contact
+
+Raj Nandini
+Data Analyst
+📧 Email: rajnandini7802@gmail.com
+🔗 LinkedIn
