@@ -76,4 +76,4 @@ Data Analyst
 
 📧 Email: rajnandini7802@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: www.linkedin.com/in/rajnandini02
